@@ -1,1 +1,1 @@
-This is just some codes that I made to learn Python
+These are just some codes I made to learn Python.
